@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 ---
 [![](https://visitcount.itsvg.in/api?id=donC20&icon=7&color=0)](https://visitcount.itsvg.in)
 
-### 🐝 Honey comb
-<img src="https://raw.githubusercontent.com/donC20/donC20/output/snake.svg" alt="Snake animation" />
 
 
 ### 🪪 DevCard
